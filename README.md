@@ -1,4 +1,4 @@
-Arm parts installation steps : 
+ # Arm parts installation steps : 
  # . Put base of the arm 
  # . Installation the waist above the base 
  # . Connect the ARM 1 in waist 
@@ -6,4 +6,4 @@ Arm parts installation steps :
  # . Finally connect the Gripper in ARM 2 
 
 
-(( Program used Inventor 2021 ))
+ # (( Program used Inventor 2021 ))
